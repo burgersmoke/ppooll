@@ -705,8 +705,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 53.0, 40.0, 41.0, 22.0 ],
-									"text" : "ll.r def"
+									"patching_rect" : [ 53.0, 40.0, 51.0, 22.0 ],
+									"text" : "ll.r def 1"
 								}
 
 							}
